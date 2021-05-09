@@ -1,0 +1,8 @@
+.mb-sheet {
+position:relative;
+background-color: white;
+max-width:600px;
+margin-left: auto;
+margin-right: auto;
+box-shadow: 0px 0px 6px rgb(0,0,0,0.3);border-radius: 5px;overflow: hidden;}
+.mb-post {padding:60px;text-align: justify; font-size: 12px; line-height: 150%;color:#444444;font-family: 'Hind', sans-serif;}lp {display:block;max-width: 290px;text-align: left;}.mb-finn{width:300px;height:365px;background-image:url('https://i.imgur.com/kS8YumS.png');background-repeat:no-repeat; background-size:contain;position:absolute;bottom:0px;right:0;background-position:bottom right;}.mb-circle {background-color:rgba(224, 225, 234, 0.3);border-radius:100%;width:40px;height:40px;float:left;margin-right:15px;}.mb-team {margin-top:20px;}.mb-team img {position:absolute;width: 85px;margin-top: -22px;margin-left: -21px;} #grey { filter: grayscale(100%);} .mb-text h2 {color:#6893B8;font-family: Roboto, sans-serif;font-size: 42px;font-style: normal;font-weight: 500;line-height: 0.3;text-transform: uppercase;letter-spacing:0.5px;border:none;}.mb-text h3 {color:#E0E1EA;font-family: Roboto, sans-serif;font-size: 18px;font-style: normal;font-weight: 500;line-height: 0;text-transform: uppercase;letter-spacing:0.5px;border:none;}.mb-text{padding-top:40px;}.mb-border {background:#779DC1;width:100%;display:block;height:45px;border-top:10px solid #DAE4EE;margin-top:65px;} 
